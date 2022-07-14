@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anil Birajdar
+title: Anil Sangram Birajdar
 
 # Is this the primary user of the site?
 superuser: true
