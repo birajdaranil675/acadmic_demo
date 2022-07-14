@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anil Birajdar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Software Developer Trainee
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: SGGSIE&T, Nanded
+    url: https://www.sggs.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A Engineering graduate having interset in software development and web development
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - software development
+  - web development
+  - Stock Market
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bacholer of Technology
+      institution: Shri Guru Gobind Singhji Institute of engineering and Technology, Nanded
+      year: 2022
+    - course: H.S.C.
+      institution: Dr. Sonavane Jr. Scienece college, Latur
+      year: 2018
+    - course: S.S.C.
+      institution: Shri Mukteshwar vidhaylaya, Ausa
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
